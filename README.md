@@ -20,7 +20,4 @@ Definitively worth a look is also this platform of [**ggplot**
 extensions](http://www.ggplot2-exts.org/).
 
 ------------------------------------------------------------------------
-
-<center>
-<img width=50%, src="./img.svg">
-</center>
+<div style="text-align:center"><img width=30%, src="./img.svg"></div>
