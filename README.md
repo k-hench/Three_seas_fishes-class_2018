@@ -1,3 +1,7 @@
+<p align="center">
+<img width=95%, src="./prev1.svg">
+</p>
+
 This folder contains a small selection of R stuff:
 
 -   how to plot **boxplots with significance codes**
@@ -9,7 +13,7 @@ This folder contains a small selection of R stuff:
 (To look at the scripts, download the folder and open R_stuff.html in your browser.)
 
 <p align="center">
-<img width=95%, src="./preview.svg">
+<img width=95%, src="./prev2.svg">
 </p>
 
 ------------------------------------------------------------------------
