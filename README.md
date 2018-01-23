@@ -22,5 +22,5 @@ extensions](http://www.ggplot2-exts.org/).
 ------------------------------------------------------------------------
 
 <center>
-![](./img.svg)<img src="./img.svg">
+<img src="./img.svg">
 </center>
