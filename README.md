@@ -22,5 +22,5 @@ extensions](http://www.ggplot2-exts.org/).
 ------------------------------------------------------------------------
 
 <center>
-<img src="./img.svg">
+<img width=50%, src="./img.svg">
 </center>
