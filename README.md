@@ -1,6 +1,6 @@
 This folder contains a small selection of R stuff:
 
--   how to plot [boxplots with significance codes](signiv_boxplot.html)
+-   how to plot <span style="color:red">**boxplots with significance codes**</span>
     using **ggplot2**
 -   how to create a [map including piecharts](pieMap/pieMap.html)
 -   how to do an [NMDS plot and run a
