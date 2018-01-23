@@ -6,6 +6,8 @@ This folder contains a small selection of R stuff:
 -   how to do an **NMDS plot and run a
     PERMANOVA**
 
+(To look at the scripts, download the folder and open R_stuff.html in your browser.)
+
 ------------------------------------------------------------------------
 
 Further helpful information on **ggplot2** can be found at:
