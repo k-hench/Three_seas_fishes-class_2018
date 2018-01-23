@@ -1,5 +1,5 @@
 <p align="center">
-<img width=95%, src="./prev1.svg">
+<img width=65%, src="./prev1.svg">
 </p>
 
 This folder contains a small selection of R stuff:
@@ -13,7 +13,7 @@ This folder contains a small selection of R stuff:
 (To look at the scripts, download the folder and open R_stuff.html in your browser.)
 
 <p align="center">
-<img width=95%, src="./prev2.svg">
+<img width=65%, src="./prev2.svg">
 </p>
 
 ------------------------------------------------------------------------
