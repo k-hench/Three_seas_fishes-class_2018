@@ -34,6 +34,7 @@ Also take a look at [**Inkscape**](https://inkscape.org/en/), a cool program to 
 This is especially useful for the map results as it can be used to separate overlapping pie-charts.
 
 Pleas note that I can not redistribute the shapefile needed for the mapping script - you will need to download it individually from [gadm](http://www.gadm.org/country). Choose **Panama** as Country and **Shapefile** as file format.
+
 ------------------------------------------------------------------------
 <p align="center">
 <img width=30%, src="./img.svg">
